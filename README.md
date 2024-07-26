@@ -20,6 +20,7 @@
 - 📫 How to reach me **demetregois@gmail.com**
 
 - ⚡ Fun fact **I love Web Developing**
+![240885602-330af13b-6435-4505-8a02-1869b677f9eb](https://github.com/user-attachments/assets/df76f637-ec99-4686-af03-3272e3656d93)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
