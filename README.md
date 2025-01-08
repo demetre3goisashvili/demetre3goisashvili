@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=demetre3goisashvili" alt="demetre3goisashvili" /></a> </p>
 
-- 🔭 I’m currently working on **DSafe**
+- 🔭 I’m currently working on **Human Benchmark**
 
 - 🌱 I’m currently learning **HTML, CSS , Python**
 
